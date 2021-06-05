@@ -6,7 +6,7 @@
 
 Link to Video
 
-- [Video Link](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/1236512a-0d6c-4111-y454-22a39e62118a) chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/1236512a-0d6c-4111-y454-22a39e62118a
+- [Video Link](https://drive.google.com/file/d/18hBRlm4HO79bhqSpNVWCUAOlwDhYeIvX/view)
 
 ## Table of Contents
 
